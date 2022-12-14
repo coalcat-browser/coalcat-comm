@@ -1,0 +1,3 @@
+20190804141027
+https://hg.mozilla.org/releases/comm-esr52/rev/bba792003f1fdce1cb9ed181c6d1c20095a4b59a
+https://hg.mozilla.org/releases/mozilla-esr52/rev/10b14c21b620
