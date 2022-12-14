@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  brandFullName         "SeaMonkey">
-<!ENTITY  brandShortName        "SeaMonkey">
-<!ENTITY  brandShorterName      "SeaMonkey">
-<!ENTITY  vendorShortName       "SeaMonkey">
+<!ENTITY  brandFullName         "LandTurtle">
+<!ENTITY  brandShortName        "LandTurtle">
+<!ENTITY  brandShorterName      "LandTurtle">
+<!ENTITY  vendorShortName       "LandTurtle">
 <!ENTITY  sidebarName           "Sidebar">

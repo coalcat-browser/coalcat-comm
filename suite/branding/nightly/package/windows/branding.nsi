@@ -5,8 +5,8 @@
 #NSIS defines
 # BrandFullNameInternal is used for some registry and file system values
 # instead of BrandFullName and typically should not be modified.
-!define BrandFullNameInternal   "SeaMonkey"
-!define CompanyName             "mozilla.org"
+!define BrandFullNameInternal   "LandTurtle"
+!define CompanyName             "ChazizGRKB"
 !define URLInfoAbout            "http://www.mozilla.org"
 !define URLUpdateInfo           "http://www.seamonkey-project.org"
 !define URLSystemRequirements   "http://www.seamonkey-project.org/doc/system-requirements"
