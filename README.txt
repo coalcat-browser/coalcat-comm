@@ -16,3 +16,4 @@ Build instructions are available here for the time being:
 
 Mail: https://web.archive.org/web/20160616153952/https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build
 Suite: https://web.archive.org/web/20160805025336/https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_SeaMonkey_build
+Instant messaging: https://web.archive.org/web/20140401215100/https://wiki.instantbird.org/Instantbird:Compiling
